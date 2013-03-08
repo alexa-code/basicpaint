@@ -1,6 +1,6 @@
 {
-  "name": "dontpanic",
-  "subdomain": "panic",
+  "name": "basicpaint",
+  "subdomain": "paint",
   "scripts": {
     "start": "server.js"
   },
